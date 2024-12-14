@@ -1,5 +1,5 @@
 #
-# Brute Force Login
+#chmod -R 755 Brute Force Login
 # By S4n1x D4rk3r
 #
 
